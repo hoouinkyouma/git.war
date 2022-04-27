@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello guys, this is my first compile using maven command within jenkins</h2>
+<h2>Hello guys, trying to deploy to tomcat after maven package automatically. Let's see if I could make it, wish me luch</h2>
 </body>
 </html>
